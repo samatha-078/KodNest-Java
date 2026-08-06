@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prgm11",
+            "request": "launch",
+            "mainClass": "prgm11",
+            "projectName": "KodNest-Java_458fa08c"
+        },
+        {
+            "type": "java",
             "name": "prgm10",
             "request": "launch",
             "mainClass": "prgm10",
